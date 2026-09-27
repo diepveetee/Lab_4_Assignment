@@ -1,4 +1,4 @@
-package com.elkabani.mydb;
+package com.diepv.mydb;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
